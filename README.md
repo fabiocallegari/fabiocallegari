@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Fábio, currently studying 3rd semester in Systems Analysis and Development 💻. I'm a Front End programmer but aiming to become a Full Stack developer in the future. Right now, I work with JavaScript and have knowledge in HTML 🌐, CSS 🎨, C# ⌨️, Nodejs 🌱, React ⚛️, and Java ☕️. I've already done some projects using these technologies. 🚀<br><br>
+Hey! I'm Fábio, currently studying 4rd semester in Systems Analysis and Development 💻. I'm a Front End programmer but aiming to become a Full Stack developer in the future. Right now, I work with JavaScript and have knowledge in HTML 🌐, CSS 🎨, C# ⌨️, Nodejs 🌱, React ⚛️, and Java ☕️. I've already done some projects using these technologies. 🚀<br><br>
 
 
 ## 🌐 Socials:
